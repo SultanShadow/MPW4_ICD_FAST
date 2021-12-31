@@ -1,0 +1,33 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1640969486
+<< locali >>
+rect 189 -263 6519 -28
+rect 1216 -1316 1447 -263
+rect 2570 -1316 2801 -263
+rect 3909 -1316 4140 -263
+rect 5261 -1316 5492 -263
+<< metal1 >>
+rect 0 -1012 6343 -367
+use sky130_fd_pr__rf_pnp_05v5_W3p40L3p40  sky130_fd_pr__rf_pnp_05v5_W3p40L3p40_0
+timestamp 1640969486
+transform 1 0 0 0 1 -1342
+box 0 0 1340 1340
+use sky130_fd_pr__rf_pnp_05v5_W3p40L3p40  sky130_fd_pr__rf_pnp_05v5_W3p40L3p40_1
+timestamp 1640969486
+transform 1 0 1342 0 1 -1342
+box 0 0 1340 1340
+use sky130_fd_pr__rf_pnp_05v5_W3p40L3p40  sky130_fd_pr__rf_pnp_05v5_W3p40L3p40_2
+timestamp 1640969486
+transform 1 0 2684 0 1 -1342
+box 0 0 1340 1340
+use sky130_fd_pr__rf_pnp_05v5_W3p40L3p40  sky130_fd_pr__rf_pnp_05v5_W3p40L3p40_3
+timestamp 1640969486
+transform 1 0 4026 0 1 -1342
+box 0 0 1340 1340
+use sky130_fd_pr__rf_pnp_05v5_W3p40L3p40  sky130_fd_pr__rf_pnp_05v5_W3p40L3p40_4
+timestamp 1640969486
+transform 1 0 5368 0 1 -1342
+box 0 0 1340 1340
+<< end >>
