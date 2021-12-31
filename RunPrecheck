@@ -1,0 +1,5 @@
+export CARAVEL_ROOT=$(pwd)/caravel
+export PRECHECK_ROOT=$(pwd)/Precheck
+export PDK_ROOT=/home/shahid/SkywaterPDK
+make precheck
+make run-precheck
